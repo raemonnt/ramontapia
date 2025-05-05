@@ -1679,7 +1679,7 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-@media (max-width: 2068px) {
+@media (max-width: 768px) {
   .two-columns {
     grid-template-columns: 1fr;
   }
